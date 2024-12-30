@@ -8,3 +8,4 @@
     - utility-First
     - colors
     - Container & Spacing
+    - Typography
