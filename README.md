@@ -9,3 +9,4 @@
     - colors
     - Container & Spacing
     - Typography
+    - Sizing
