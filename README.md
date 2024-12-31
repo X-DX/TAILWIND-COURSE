@@ -12,3 +12,4 @@
     - Sizing
     - Layout and Position
     - Background & Shadows
+    - Borders & Border Radius
