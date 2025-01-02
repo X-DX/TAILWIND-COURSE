@@ -19,4 +19,4 @@
     - Break Point Classes and Media Queries
     - Columns
     - Grid
-    - 
+    - Transition & Transform
