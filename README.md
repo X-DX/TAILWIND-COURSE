@@ -16,3 +16,5 @@
 
 ## Fundamental Part 2
     - Interactivity
+    - Break Point Classes and Media Queries
+    - 
