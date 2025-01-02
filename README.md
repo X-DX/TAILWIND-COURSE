@@ -18,4 +18,5 @@
     - Interactivity
     - Break Point Classes and Media Queries
     - Columns
-    - flexbox
+    - Grid
+    - 
